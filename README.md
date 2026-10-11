@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Siti Norhaida Azmina
 
-<!--
-**haidaazmina/haidaazmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UiTM interested in cybersecurity and AI
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor of Computer Science (Honours), UiTM
+- Currently learning: All Computer Science topics
+- My FYP area: cybersecurity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Java, html, C++, php
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: haidayunus03@gmail.com
+
