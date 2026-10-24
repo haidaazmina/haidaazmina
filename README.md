@@ -1,19 +1,19 @@
 # Hi, I'm Siti Norhaida Azmina
 
-I'm a Computer Science student at UiTM interested in cybersecurity and AI
+I'm a Computer Science student at UiTM interested in Artificial Intelligence (AI) and Machine Learning (ML)
 
 ## About me
 - Studying: Bachelor of Computer Science (Honours), UiTM
 - Currently learning: All Computer Science topics
-- My FYP area: cybersecurity 
+- My FYP area: Machine Learning 
 
 ## Skills and tools
-Java, html, C++, php
+Java, html, C++, PHP
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- Campus Event Registration (https://github.com/haidaazmina/campus-event-registration): This project solves the problem of fragmented event registration and manual attendance tracking for both university students and campus event organizers.
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/haida-azmina-2a3b06413
 - Email: haidayunus03@gmail.com
 
